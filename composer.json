@@ -1,0 +1,20 @@
+{
+    "name": "ghazlewood/dapc_unpublish_donation",
+    "description": "Mobile_Detect is a lightweight PHP class for detecting mobile devices.",
+    "type": "drupal-module",
+    "homepage": "https://github.com/ghazlewood/dapc_unpublish_donation",
+    "authors": [
+        {
+            "name": "George Hazlewood (ghazlewood)",
+            "homepage": "https://github.com/ghazlewood",
+            "role": "Maintainer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/ghazlewood/dapc_unpublish_donation/issues",
+        "source": "https://github.com/ghazlewood/dapc_unpublish_donation"
+    },
+    "license": "GPL-2.0-or-later",
+    "minimum-stability": "dev"
+}
+
