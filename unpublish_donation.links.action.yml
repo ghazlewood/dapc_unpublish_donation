@@ -1,0 +1,7 @@
+unpublish_donation.remove_form:
+  route_name: 'unpublish_donation.remove_form'
+  title: 'Remove Donation'
+  route_parameters:
+    node_type: 'donation'
+  appears_on:
+      - entity.node.canonical

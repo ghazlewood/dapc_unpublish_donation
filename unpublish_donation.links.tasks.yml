@@ -1,0 +1,4 @@
+unpublish_donation.remove:
+  route_name: unpublish_donation.remove
+  base_route: entity.node.canonical
+  title: 'Remove Donation'

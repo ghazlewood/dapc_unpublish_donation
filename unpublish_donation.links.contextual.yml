@@ -1,0 +1,3 @@
+unpublish_donation.remove:
+  route_name: unpublish_donation.remove
+  group: node

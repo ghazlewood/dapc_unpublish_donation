@@ -1,0 +1,12 @@
+unpublish_donation.remove_form:
+  path: '/node/{node}/remove'
+  defaults:
+    _form: '\Drupal\unpublish_donation\Form\RemoveForm'
+    _title: 'Remove Donation'
+  requirements:
+    _permission: 'access content'
+    node: '\d+'
+  options:
+    parameters:
+      node:
+        type: 'entity:node'

@@ -1,0 +1,6 @@
+name: Unpublish Donation
+description: Provides a custom form to remove (unpublish) a donation if the user knows the maiden name given when the donation was created
+package: Custom
+type: module
+core: 8.x
+hidden: false
